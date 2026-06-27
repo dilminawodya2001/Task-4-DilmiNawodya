@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Analysis Dashboard
+# 🛒 E-Commerce Analysis Dashboard — Project 4:Data Visualization
 
 > **DecodeLabs Industrial Training Kit — Batch 2026**
 > Data Visualization Project · `project_4`
